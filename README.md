@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 ### <div align="center">I'm Keerthivardhan, a web developer </div>  
   
 
--  🔭 I’m currently working on a full stack project
+-  🔭 I’m currently working on a full stack project (collaborative code editor)
 
-- 🌱focusing on AWS, Docker and machine learning
+- ❓ Ask me about anything related to java
 
-- ❓ Ask me about anything related to java, and MERN stack related technologies
+- 
   
 
 <br/>  
@@ -97,8 +97,6 @@ Here are some ideas to get you started:
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-<a href = "https://keerthivardhan.hashnode.dev/things-to-remember-in-maps-java" >Hashmaps In Java</a><br>
-<a href = "https://keerthivardhan.hashnode.dev/things-to-remember-in-heap-sort">Why Heap Sort</a><br>
 <a href = "https://keerthivardhan.hashnode.dev/javascript-before-react-part-1">Javascript Befor React Part 1</a>
 
 
