@@ -21,11 +21,13 @@ Here are some ideas to get you started:
 ### <div align="center">I'm Keerthivardhan, a web developer </div>  
   
 
--  🔭 I’m currently working on a full stack project (collaborative code editor)
+-  🔭 I’m currently working on a full stack project.
 
-- ❓ Ask me about anything related to java
+- ❓ Ask me about anything related to
+- java, Javascript, Data Structure and Algorithms
+- React.js, Express.js, SQL, Node.js,git
 
-- 
+- Currently Improving my skills in Node.js, SQL, Integration of AI Agent to solve real world problems, Very soon you see the product in product Hunt
   
 
 <br/>  
