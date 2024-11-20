@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 <a href = "https://keerthivardhan.hashnode.dev/javascript-before-react-part-1">Javascript Befor React Part 1</a>
-
+<a href = "https://keerthivardhan.hashnode.dev/">Hashnode Keerthivardhan</a>
 
 <!-- BLOG-POST-LIST:END -->  
 
