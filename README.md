@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">I'm Keerthivardhan, a web developer </div>  
+### <div align="center">I'm Keerthivardhan, a Engineer </div>  
   
 
 -  🔭 I’m currently working on GEN AI, RAG, Agents, N8N, Full Stack project.
