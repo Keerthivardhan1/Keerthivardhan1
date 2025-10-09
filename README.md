@@ -21,13 +21,16 @@ Here are some ideas to get you started:
 ### <div align="center">I'm Keerthivardhan, a web developer </div>  
   
 
--  🔭 I’m currently working on a full stack project.
+-  🔭 I’m currently working on GEN AI, RAG, Agents, N8N, Full Stack project.
 
-- ❓ Ask me about anything related to
-- java, Javascript, Data Structure and Algorithms
-- React.js, Express.js, SQL, Node.js,git
+- Hands on experience in 
+- Sql, pyspark, Databricks
+- GEN AI, RAG, Agents, N8N, ChromaDB, crewai
+- Python, Data Structure and Algorithms, Java, JavaScript
+- MERN
+- Git and Github
 
-- Currently Improving my skills in Node.js, SQL, Integration of AI Agent to solve real world problems, Very soon you see the product in product Hunt
+- Currently Improving my skills in GEN AI, LLM, Agentic AI, RAG, Integration of AI Agent to solve real world problems, Very soon you see the product in product Hunt
   
 
 <br/>  
